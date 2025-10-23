@@ -8,9 +8,7 @@
 	"extensions": {
 		"recommendations": [
 			"redhat.vscode-yaml",
-			"mhutchie.git-graph",
 			"eamodio.gitlens",
-			"streetsidesoftware.code-spell-checker",
 			"cnshenj.vscode-task-manager"
 		]
 	},
